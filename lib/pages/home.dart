@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
             child: Column(
               children: <Widget>[
                 Center(
-                  child:  Text("GIOVANNI"),
+                  child:  Text("Mario"),
                 ),
                 RaisedButton(
                   onPressed: () {
